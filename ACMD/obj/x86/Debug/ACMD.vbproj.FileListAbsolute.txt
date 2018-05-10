@@ -1,0 +1,16 @@
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\bin\Debug\ACMD.exe
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\bin\Debug\ACMD.pdb
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\bin\Debug\ACMD.xml
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.Form1.resources
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.frmConsulta.resources
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.frmHistoriaClinica.resources
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.Resources.resources
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.vbproj.GenerateResource.Cache
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.exe
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.xml
+c:\users\erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.pdb
+C:\Users\Erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.frmAgenda.resources
+C:\Users\Erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.frmVerCitas.resources
+C:\Users\Erick\documents\visual studio 2010\Projects\ACMD\ACMD\bin\Debug\ACMD.exe.config
+C:\Users\Erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.frmAgendarCita.resources
+C:\Users\Erick\documents\visual studio 2010\Projects\ACMD\ACMD\obj\x86\Debug\ACMD.frmHomePage.resources
