@@ -37,7 +37,7 @@
 
     Private Sub btnSig_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSig.Click
         Me.tabConsulta.SelectedTab = Me.tabplan
-        'PRUEBA ASDADAS
+        'PRUEBA MKSR
     End Sub
 
     Private Sub CargarDatosPaciente()
